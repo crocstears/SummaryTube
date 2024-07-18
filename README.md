@@ -1,6 +1,6 @@
 
 SummaryTube is a Django-based web application that allows users to enter a YouTube link and receive a summarized version of the video content.
-
+ 
 Features
 Simple UI: Easy-to-use interface for entering YouTube links and viewing summarized content.
 Text Summarization: Automatically generates concise summaries of YouTube videos.
